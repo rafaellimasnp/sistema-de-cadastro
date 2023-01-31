@@ -5,3 +5,4 @@ console.log("Este é um teste de git 2 ")
 console.log("Este é um teste de git 3 ")
 
 console.log("Enviando para o git no terminal ")
+console.log("Enviando para o git no terminal2 ")
